@@ -1,0 +1,14 @@
+# Pebble / waf build output
+build/
+.lock-waf*
+*.pyc
+__pycache__/
+
+# Nix / direnv
+.direnv/
+result
+result-*
+
+# clangd
+compile_commands.json
+.cache/

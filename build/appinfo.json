@@ -1,0 +1,33 @@
+{
+    "displayName": "pebble_tomato",
+    "uuid": "512d7bd0-f344-4a76-9e19-495e2507cfef",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk",
+        "diorite",
+        "emery",
+        "flint",
+        "gabbro"
+    ],
+    "watchapp": {
+        "watchface": false
+    },
+    "messageKeys": {
+        "dummy": 10000
+    },
+    "resources": {
+        "media": []
+    },
+    "name": "pebble_tomato",
+    "shortName": "pebble_tomato",
+    "longName": "pebble_tomato",
+    "versionLabel": "1.0.0",
+    "companyName": "MakeAwesomeHappen",
+    "appKeys": {
+        "dummy": 10000
+    },
+    "capabilities": []
+}
